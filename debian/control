@@ -1,0 +1,15 @@
+Source: clearpath-backgrounds
+Section: devel
+Priority: extra
+Maintainer: Alex Bencz <abencz@clearpathrobotics.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/clearpathrobotics/clearpath-backgrounds
+#Vcs-Git: git://git.debian.org/collab-maint/backgrounds.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/backgrounds.git;a=summary
+
+Package: clearpath-backgrounds
+Architecture: all
+Depends: ${misc:Depends}
+Description: Clearpath Robotics background images.
+ Desktop wallpapers from Clearpath Robotics
