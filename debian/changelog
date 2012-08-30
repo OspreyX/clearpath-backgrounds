@@ -1,3 +1,9 @@
+clearpath-backgrounds (0.2) precise; urgency=low
+
+  * Fixed build dependencies.
+
+ -- Alex Bencz <abencz@clearpathrobotics.com>  Wed, 29 Aug 2012 09:24:46 -0400
+
 clearpath-backgrounds (0.1) precise; urgency=low
 
   * Added initial Clearpath desktop background.
